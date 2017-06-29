@@ -23,7 +23,7 @@ Later that evening I had some time to kill so I hacked together the working demo
 If I have time, I plan to come back and make it prettier.  Also, the huge array of movie information is loaded in full on the front-end.  It is several megabytes.  I probably won't come back and address this but at the time I knew that this was not the best way to do it.
 
 This project was created with
-[Jae Huh] (https://github.com/Jae-Huh)
-[Paul Brabet] (https://github.com/paul-brabet)
-[Julie Crutchley] (https://github.com/juliecrutchley)
-[Rob Fisher] (https://github.com/rob-dev-builder)
+[Jae Huh](https://github.com/Jae-Huh)
+[Paul Brabet](https://github.com/paul-brabet)
+[Julie Crutchley](https://github.com/juliecrutchley)
+[Rob Fisher](https://github.com/rob-dev-builder)
